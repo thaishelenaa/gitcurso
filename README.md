@@ -1,0 +1,2 @@
+# gitcurso
+tentativa trio
