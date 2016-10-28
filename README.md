@@ -1,2 +1,4 @@
 # gitcurso
-tentativa trio
+
+/teste/
+
